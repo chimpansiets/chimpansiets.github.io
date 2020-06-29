@@ -3,7 +3,7 @@ layout: post
 title: FT_PRINTF
 ---
 
-To recode libc's `printf`.  
+Recode libc's `printf`.  
   
 At 42, students are not allowed to use library functions. We can only submit wholly self-written functions (no `strlen`, `strdup`, `bzero` etc.).
 ft_printf must be formatted in the same manor as libc's `printf`. For example:
