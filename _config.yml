@@ -9,7 +9,7 @@ name: Sietse Voort
 description: Software Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/chimpansiets/chimpansiets.github.io/master/images/selfie_cut.png.
+avatar: https://avatars3.githubusercontent.com/u/25350292?s=400&u=db14d3fbd656f72e4b4af3331b2655f1c6aa6c95&v=4.
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin: sietse-voort-899041167
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
