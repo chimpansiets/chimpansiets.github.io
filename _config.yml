@@ -9,7 +9,7 @@ name: SSietse Voort
 description: Software Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/selfie_cut.png.
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: chimpansiets
   instagram:
-  linkedin:
+  linkedin: sietse-voort-899041167
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
