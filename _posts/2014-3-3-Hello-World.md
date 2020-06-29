@@ -3,7 +3,19 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+To recode libc's `printf`.  
+  
+At 42, students are not allowed to use library functions. We can only submit wholly self-written functions (no `strlen`, `strdup`, `bzero` etc.).
+ft_printf must be formatted in the same manor as libc's `printf`. For example:
+```c
+ft_printf("%s is a %d student\n", "Sietse", 42);
+printf("%s is a %d student\n", "Sietse", 42);
+```
+Should give back:
+```console
+Sietse is a 42 student
+Sietse is a 42 student
+```
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
