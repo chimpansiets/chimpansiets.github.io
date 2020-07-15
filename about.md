@@ -7,9 +7,9 @@ permalink: /about/
 Some information about myself other than programming skills!
 
 Hi, I'm Sietse, a 22 year old Software Engineer currently living in Amsterdam.
-I started out this blog as a fun way of sharing my projects and own experiences with programming and to give people and employers a better and broader view of who I am as a person aswell.
-I've started out my career as a Delivery cyclist, which was a very good way to make some money and staying fit while learning how to code.
-It was definitely fun to get to know the city of Amsterdam so well, and especially to bike around the city late in the evening was nice.
+I started out this blog as a fun way of sharing my projects and own experiences with programming and to give people and employers a better and broader view of who I am as a person.
+I've started out my career as a Delivery cyclist, which was a very good way to make some money and to stay fit while learning how to code.
+It was definitely fun to get to know the city of Amsterdam so well, especially cycling around the city late in the evening was nice.
 
 Other than that, I like to play guitar a LOT. I recently have bought a studio-microphone to record some pieces on guitar, so perhaps I'll post some of them here soon!
 I mostly play Jazz, blues and fingerstyle guitar. Music for me is a very exciting way to bring my mind into a sort of meditative state, just like with programming.
