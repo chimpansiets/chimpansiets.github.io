@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FT_PRINTF
+title: ft_printf
 ---
 
 Recode libc's `printf`.  
