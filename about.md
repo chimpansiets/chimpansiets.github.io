@@ -15,10 +15,6 @@ Other than that, I like to play guitar a LOT. I recently have bought a studio-mi
 I mostly play Jazz, blues and fingerstyle guitar. Music for me is a very exciting way to bring my mind into a sort of meditative state, just like with programming.
 These activities capture my mind in a way that I can't really think about much else other than what I am currently doing.
 
-I like to learn new languages aswell, recently I have started to pick up Korean.
-I like to learn new languages because it broadens my perspective on different habits, manners and overall culture of different countries.
-Also I feel that by getting to know a lot of different cultures you learn a lot about people in general.
-
 ### Contact me
 
 [svoort1@live.nl](mailto:svoort1@live.nl)
