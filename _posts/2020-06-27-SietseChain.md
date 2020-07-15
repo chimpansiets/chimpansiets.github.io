@@ -14,9 +14,9 @@ of how blockchain networks function in detail, simply for research purposes.
 
 `git clone https://github.com/chimpansiets/own_blockchain.git`
 
-or download the ZIP from
+or download the ZIP from:
 
-(https://github.com/chimpansiets/own_blockchain)
+https://github.com/chimpansiets/own_blockchain
 
 ### Running
 
